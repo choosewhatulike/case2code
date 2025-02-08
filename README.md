@@ -5,7 +5,7 @@ This repository contains the code for our paper "[Case2Code: Scalable Synthetic 
 ![](image.png)
 
 ## Download Processed Dataset
-You can Download our processed training Case2Code dataset used in our main experiments from huggingface: []().
+You can Download our processed training Case2Code dataset used in our main experiments from huggingface: [fnlp/case2code-data](https://huggingface.co/datasets/fnlp/case2code-data).
 
 The test set of Case2Code is available at `dataset/test.jsonl`.
 
