@@ -1,0 +1,7 @@
+msgpack
+requests
+astor==0.8.1
+dill==0.3.9
+openai==0.28.0
+tenacity==9.1.2
+tqdm==4.67.1
